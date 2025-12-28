@@ -5,7 +5,7 @@ We're here to help you master any topic using the Feynman Technique.
 ## Contact Information
 If you encounter any issues or have questions about how to use Clarity, please reach out to us:
 
-- **Email:** [support@clarity-app.com]
+- **Email:** [UniqApp](mailto:exsoftcom@gmail.com)
 - **Response Time:** We typicaly respond within 24-48 hours.
 
 ## Frequently Asked Questions (FAQ)

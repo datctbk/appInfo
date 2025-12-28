@@ -21,5 +21,5 @@ Learning isn't just about reading; it's about understanding. Clarity guides you 
 Download Clarity on the App Store.
 
 ---
-[App Store Link Placeholder]
+[\[App Store\]](https://apps.apple.com/app/id6756836810)
 [Website/Marketing URL Placeholder]

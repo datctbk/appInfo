@@ -1,6 +1,6 @@
 # Privacy Policy for Clarity
 
-**Effective Date: December 28, 2024**
+**Effective Date: December 28, 2025**
 
 Welcome to Clarity. We respect your privacy and are committed to protecting any personal information you may provide while using our application.
 
@@ -28,7 +28,7 @@ We implement reasonable security measures to protect your information from unaut
 
 ## 5. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-[support@clarity-app.com]
+[UniqApp](mailto:exsoftcom@gmail.com)
 
 ---
 *Note: This is a general template. Please ensure it aligns with your specific data handling practices.*

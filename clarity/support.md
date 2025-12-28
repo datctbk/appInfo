@@ -28,4 +28,4 @@ Yes, we prioritize your privacy. Please refer to our [Privacy Policy](privacy-po
 - **App crash:** Try restarting the app or checking for updates in the App Store.
 
 ---
-© 2024 Clarity App. All rights reserved.
+© 2025 Clarity App. All rights reserved.

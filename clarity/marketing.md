@@ -22,4 +22,4 @@ Download Clarity on the App Store.
 
 ---
 [\[App Store\]](https://apps.apple.com/app/id6756836810)
-[Website/Marketing URL Placeholder]
+
